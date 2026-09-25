@@ -23,7 +23,7 @@
 
 ## 📊 Live Demo
 
-| [Try CardioScan](https://cardio-scan-80tjv9z2k-conqu.vercel.app/) |
+| [Try CardioScan](https://cardio-scan-mu.vercel.app/) |
 | -------------------------------------------------------- |
 
 ## 🏗️ Tech Stack
